@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://anshuman13codes.github.io/celebration-zone/sitemap.xml
